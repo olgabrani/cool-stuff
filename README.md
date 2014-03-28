@@ -6,4 +6,7 @@ Interesting links concerning:
 * UX
 * Ember.js
 * Jquery 
-and more...
+* Git, Vim and development tools
+
+
+Feel free to contribute! Thanks
