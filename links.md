@@ -10,3 +10,4 @@
 
 * [HTML & css code style] (http://mdo.github.io/code-guide/)
 * [Slick, carousel/slider] (http://kenwheeler.github.io/slick/)
+* [DataMaps, SVG maps] (http://datamaps.github.io/)
