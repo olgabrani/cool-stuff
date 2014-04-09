@@ -12,3 +12,8 @@
 * [Slick, carousel/slider] (http://kenwheeler.github.io/slick/)
 * [DataMaps, SVG maps] (http://datamaps.github.io/)
 * [iHover, pure CSS3 hover] (http://gudh.github.io/ihover/dist/index.html)
+
+### Javascript <3
+
+* [Javascript Resources] (http://superherojs.com/) 
+(Great repsonsive UI by the way)
