@@ -13,6 +13,7 @@
 * [DataMaps, SVG maps] (http://datamaps.github.io/)
 * [iHover, pure CSS3 hover] (http://gudh.github.io/ihover/dist/index.html)
 * [Single element CSS spinners] (http://projects.lukehaas.me/css-loaders/)
+* [Super cute kitten placeholder API] (http://placekitten.com/)
 
 ### Javascript <3
 
