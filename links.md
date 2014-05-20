@@ -12,6 +12,7 @@
 * [Slick, carousel/slider] (http://kenwheeler.github.io/slick/)
 * [DataMaps, SVG maps] (http://datamaps.github.io/)
 * [iHover, pure CSS3 hover] (http://gudh.github.io/ihover/dist/index.html)
+* [Single element CSS spinners] (http://projects.lukehaas.me/css-loaders/)
 
 ### Javascript <3
 
