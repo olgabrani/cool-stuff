@@ -6,7 +6,7 @@
 
 * [Git interactive] (http://www.wei-wang.com/ExplainGitWithD3/#)
 * [Create animated gif for terminal commands] (https://github.com/icholy/ttygif)
-* [One Git tutorial in never enough] (http://wildlyinaccurate.com/a-hackers-guide-to-git)
+* [One Git tutorial is never enough] (http://wildlyinaccurate.com/a-hackers-guide-to-git)
 
 ### Front-end
 
@@ -17,6 +17,7 @@
 * [Single element CSS spinners] (http://projects.lukehaas.me/css-loaders/)
 * [Super cute kitten placeholder API] (http://placekitten.com/)
 * [HTML Header swag] (http://wicky.nillia.ms/headroom.js/)
+* [ScrollMe -- Simple jQuery scrolling] (http://scrollme.nckprsn.com/)
 
 ### Javascript <3
 
