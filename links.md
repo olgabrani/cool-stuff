@@ -23,3 +23,11 @@
 
 * [Javascript Resources] (http://superherojs.com/) 
 (Great repsonsive UI by the way)
+
+### Fun
+
+* [Simpsons in CSS] (https://pattle.github.io/simpsons-in-css/)
+
+### Python
+
+* [Python useful libraries and packages] (https://github.com/vinta/awesome-python)
