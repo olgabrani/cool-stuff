@@ -23,6 +23,7 @@
 
 * [Javascript Resources] (http://superherojs.com/) 
 (Great repsonsive UI by the way)
+* [Javascript Must Watch Videos] (https://github.com/bolshchikov/js-must-watch)
 
 ### Fun
 
