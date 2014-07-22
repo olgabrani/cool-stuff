@@ -28,6 +28,7 @@
 ### Fun
 
 * [Simpsons in CSS] (https://pattle.github.io/simpsons-in-css/)
+* [Pure CSS One Div Weather Animated Icons] (http://codepen.io/fbrz/full/iqtlk/)
 
 ### Python
 
