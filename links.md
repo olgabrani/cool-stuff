@@ -18,6 +18,7 @@
 * [Super cute kitten placeholder API] (http://placekitten.com/)
 * [HTML Header swag] (http://wicky.nillia.ms/headroom.js/)
 * [ScrollMe -- Simple jQuery scrolling] (http://scrollme.nckprsn.com/)
+* [SVG background pattern] (http://buseca.github.io/patternbolt/)
 
 ### Javascript <3
 
