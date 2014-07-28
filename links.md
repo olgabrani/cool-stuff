@@ -14,11 +14,11 @@
 * [Slick, carousel/slider] (http://kenwheeler.github.io/slick/)
 * [DataMaps, SVG maps] (http://datamaps.github.io/)
 * [iHover, pure CSS3 hover] (http://gudh.github.io/ihover/dist/index.html)
-* [Single element CSS spinners] (http://projects.lukehaas.me/css-loaders/)
 * [Super cute kitten placeholder API] (http://placekitten.com/)
 * [HTML Header swag] (http://wicky.nillia.ms/headroom.js/)
 * [ScrollMe -- Simple jQuery scrolling] (http://scrollme.nckprsn.com/)
 * [SVG background pattern] (http://buseca.github.io/patternbolt/)
+* [Spinners] (http://tobiasahlin.com/spinkit/)
 
 ### Javascript <3
 
