@@ -1,6 +1,7 @@
 ### UX
 
 * [Buttons library] (http://alexwolfe.github.io/Buttons/)
+* [Spinners] (http://tobiasahlin.com/spinkit/)
 
 ### Git, Vim etc
 
@@ -18,7 +19,7 @@
 * [HTML Header swag] (http://wicky.nillia.ms/headroom.js/)
 * [ScrollMe -- Simple jQuery scrolling] (http://scrollme.nckprsn.com/)
 * [SVG background pattern] (http://buseca.github.io/patternbolt/)
-* [Spinners] (http://tobiasahlin.com/spinkit/)
+* [jekyll- Static site generator] (http://jekyllrb.com/)
 
 ### Javascript <3
 
