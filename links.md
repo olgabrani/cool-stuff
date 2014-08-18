@@ -2,6 +2,7 @@
 
 * [Buttons library] (http://alexwolfe.github.io/Buttons/)
 * [Spinners] (http://tobiasahlin.com/spinkit/)
+* [Marka - Beautiful transformable icons built for the web](https://github.com/fians/marka)
 
 ### Git, Vim etc
 
