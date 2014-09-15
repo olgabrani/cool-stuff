@@ -20,13 +20,16 @@
 * [HTML Header swag] (http://wicky.nillia.ms/headroom.js/)
 * [ScrollMe -- Simple jQuery scrolling] (http://scrollme.nckprsn.com/)
 * [SVG background pattern] (http://buseca.github.io/patternbolt/)
-* [jekyll- Static site generator] (http://jekyllrb.com/)
+* [jekyll-- Static site generator] (http://jekyllrb.com/)
+* [Inspiring css guidelines] (https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
+* [Gradients](http://uigradients.com/)
 
 ### Javascript <3
 
 * [Javascript Resources] (http://superherojs.com/) 
 (Great repsonsive UI by the way)
 * [Javascript Must Watch Videos] (https://github.com/bolshchikov/js-must-watch)
+* [Beautiful animated Charts] (https://gionkunz.github.io/chartist-js/index.html)
 
 ### Fun
 
@@ -36,3 +39,12 @@
 ### Python
 
 * [Python useful libraries and packages] (https://github.com/vinta/awesome-python)
+
+
+### Ember
+
+* [Code Highlight] (https://embergrep.com/free-lessons/using-ember-grep-code-highlight)
+* [Font Awesome] (https://github.com/lfridael/ember-cli-font-awesome)
+
+* [Date Picker] (https://www.npmjs.org/package/ember-pikaday)
+* [How to create and register an Addon] (http://edgycircle.com/blog/2014-creating-a-datepicker-ember-addon/)
