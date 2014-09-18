@@ -46,5 +46,12 @@
 * [Code Highlight] (https://embergrep.com/free-lessons/using-ember-grep-code-highlight)
 * [Font Awesome] (https://github.com/lfridael/ember-cli-font-awesome)
 
+
 * [Date Picker] (https://www.npmjs.org/package/ember-pikaday)
 * [How to create and register an Addon] (http://edgycircle.com/blog/2014-creating-a-datepicker-ember-addon/)
+
+###  How to organize your code
+
+* [Trello css guide] (http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/)
+* [Improving Smashing Magazine's Performance] (http://www.smashingmagazine.com/2014/09/08/improving-smashing-magazine-performance-case-study/)
+* [Improving css efficiency] (http://css-tricks.com/efficiently-rendering-css/)
