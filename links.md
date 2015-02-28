@@ -3,6 +3,7 @@
 * [Buttons library] (http://alexwolfe.github.io/Buttons/)
 * [Spinners] (http://tobiasahlin.com/spinkit/)
 * [Marka - Beautiful transformable icons built for the web](https://github.com/fians/marka)
+* [Javascript timesheet](http://sbstjn.github.io/timesheet.js/)
 
 ### Git, Vim etc
 
@@ -45,8 +46,6 @@
 
 * [Code Highlight] (https://embergrep.com/free-lessons/using-ember-grep-code-highlight)
 * [Font Awesome] (https://github.com/lfridael/ember-cli-font-awesome)
-
-
 * [Date Picker] (https://www.npmjs.org/package/ember-pikaday)
 * [How to create and register an Addon] (http://edgycircle.com/blog/2014-creating-a-datepicker-ember-addon/)
 
